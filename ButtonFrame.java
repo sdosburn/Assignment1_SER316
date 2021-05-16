@@ -29,6 +29,13 @@ class ButtonCloser extends WindowAdapter
 
 public class ButtonFrame extends JFrame
 {
+
+	/*
+	*
+	*
+	*
+	* */
+
 	public ButtonFrame()
 	{
 		JButton open = new JButton("Open");
